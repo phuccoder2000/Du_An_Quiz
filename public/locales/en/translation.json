@@ -1,0 +1,42 @@
+{
+    "homepage": {
+        "title1": "There's a better way to ask ",
+        "title2": "You don't want to make a boring form. And your audience won't answer one.Create a typeform instead—and make everyone happy",
+        "title3": {
+            "login": "Get started - it's free",
+            "doing": "Doing Quiz Now"
+        }
+    },
+    "header": {
+        "home": "Home",
+        "users": "Users",
+        "admins": "Admin",
+        "settings": {
+            "setting": "Setting",
+            "profile": "Profile",
+            "logout": "Logout"
+        },
+        "login": "Login",
+        "signup": "Sign up"
+    },
+    "login": {
+        "title1": "Don't have an account yet?",
+        "signup": "Sign up",
+        "title2": "Hello, who’s this?",
+        "password": "password",
+        "forgotpassword": "Forgot password ?",
+        "login": "Login",
+        "title3": "<< Go to back HomePage"
+    },
+    "register": {
+        "title1": "Alerady have an account?",
+        "login": "Login",
+        "title2": "Sign upand \n come on in",
+        "title3": "Get better data with conversational forms, surveys, \nquizzes & more.",
+        "password": "password",
+        "username": "Username",
+        "forgotpassword": "Forgot password ?",
+        "button1": "Create my free account",
+        "title4": "<< Go to back HomePage"
+    }
+}

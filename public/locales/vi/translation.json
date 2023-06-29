@@ -1,0 +1,42 @@
+{
+    "homepage": {
+        "title1": "có rất nhiều cái để hỏi ...",
+        "title2": "Bạn không muốn làm một hình thức nhàm chán. Và khán giả của bạn sẽ không trả lời một. Thay vào đó, hãy tạo một kiểu chữ—và làm cho mọi người hài lòng",
+        "title3": {
+            "login": "Get started - it's free.",
+            "doing": "Bắt đầu ngay"
+        }
+    },
+    "header": {
+        "home": "Trang chủ",
+        "users": "Người dùng",
+        "admins": "Quản trị viên",
+        "settings": {
+            "setting": "Cài đặt",
+            "profile": "Thông tin cá nhân",
+            "logout": "Đăng xuất"
+        },
+        "login": "Đăng nhập",
+        "signup": "Đăng ký"
+    },
+    "login": {
+        "title1": "Bạn chưa có tài khoản?",
+        "signup": "Đăng ký",
+        "title2": "Xin chào, bạn là ai?",
+        "password": "mật khẩu",
+        "forgotpassword": "quên mật khẩu ?",
+        "login": "Đăng nhập",
+        "title3": "<< Quay lại trang chủ "
+    },
+    "register": {
+        "title1": "Hãy tạo một tài khoản?",
+        "login": "Đăng nhập",
+        "title2": "Hãy đăng ký \n  để bắt đầu",
+        "title3": "Hãy thử sức mình với các câu hỏi và \n câu trả lời hay...",
+        "password": "mật khẩu",
+        "username": "Tên đăng nhập",
+        "forgotpassword": "quên mật khẩu ?",
+        "button1": "Tạo tài khoản",
+        "title4": "<< Quay lại trang chủ "
+    }
+}
