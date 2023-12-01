@@ -12,7 +12,7 @@
 - trả lời câu hỏi
 ![image](https://github.com/phuccoder2000/Du_An_Quiz/assets/62839458/0ae00f4e-1f74-40f0-b82e-822e4028f72a)
 - nộp bài
-![image](https://github.com/phuccoder2000/Du_An_Quiz/assets/62839458/901a9061-ec91-449a-8b15-f9d5eb63a965)
+![image](https://github.com/phuccoder2000/Du_An_Quiz/assets/62839458/796958ce-28a4-42ac-a1ba-8de3fb56f5b4)
 ## trang admin
 ![image](https://github.com/phuccoder2000/webtitan/assets/62839458/d47d7714-7308-4204-9642-207b804b1a80)
 ### trang quản lí user 
