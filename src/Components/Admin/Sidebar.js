@@ -61,7 +61,7 @@ const SideBar = (props) => {
                             icon={<FaGem />}
                             title={"Features"}
                         >
-                            <MenuItem> Quản lý user
+                            <MenuItem> Quản lý user Phuc
                                 <Link to="/admins/manage-users" />
                             </MenuItem>
                             <MenuItem> Quản lý bài Quiz
