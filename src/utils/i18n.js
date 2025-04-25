@@ -2,6 +2,7 @@ import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
 import LanguageDetector from 'i18next-browser-languagedetector';
 import Backend from 'i18next-http-backend';
+import { escapeRegExp } from 'lodash';
 i18n
     // i18next-http-backend
     // loads translations from your server
@@ -20,6 +21,15 @@ i18n
         interpolation: {
             escapeValue: false, // not needed for react as it escapes by default
         }
+        .init({
+            debug: false,
+            fallbackLng: "vn",
+            interpolation:{
+                escapeValue: true, // not needed for react
+                escapeRegExp
+            }
+        })
+    
     });
-
+    
 export default i18n;
