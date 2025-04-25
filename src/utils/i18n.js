@@ -18,17 +18,8 @@ i18n
         debug: false,
         fallbackLng: 'en',
         interpolation: {
-            escapeValue: false, // not needed for react as it escapes by default
+            escapeValue: false, // not needed for react as it escapes by defaul
         }
-        .init({
-            debug: false,
-            fallbackLng: "vn: 4327",
-            interpolation:{
-                escapeValue: true, // not needed for react
-                
-            }
-        })
-    
     });
     
 export default i18n;
